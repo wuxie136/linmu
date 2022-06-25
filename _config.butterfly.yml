@@ -51,7 +51,7 @@ copy:
 social:
   fab fa-github: https://github.com/wuxie136 || Github
   fas fa-envelope: mailto:2377917180@qq.com || Email
-  fas fa-rss: https://tianli-blog.club/atom.xml || RSS
+  fas fa-rss: /atom.xml || RSS
   fas fa-users-cog: https://hpp.tianli.workers.dev/hpp/admin/dash/home || Admin
 
 # search (搜索)
@@ -97,7 +97,7 @@ avatar:
   effect: false
 
 # The banner image of home page
-index_img: https://api.btstu.cn/sjbz/api.php?lx=dongman&format=images&method=zsy
+index_img: https://tva2.sinaimg.cn/large/9bd9b167gy1g2qkuvbucoj21hc0u01kx.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: https://tva3.sinaimg.cn/large/9bd9b167gy1g2rdq7pyl9j20hs0vk4bz.jpg
