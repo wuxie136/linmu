@@ -181,7 +181,7 @@ encrypt: # hexo-blog-encrypt
 # Author: Ice Kano
 # Modify: Lete乐特
 githubcalendar:
-  enable: false
+  enable: flase
   enable_page: /
   user: TIANLI0
   layout:
