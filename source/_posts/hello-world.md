@@ -1,7 +1,8 @@
 ---
 title: Hello World
-cover: https://ae01.alicdn.com/kf/H355adba4500642949f3d43d001b83ac3b.jpg
+cover: 'https://ae01.alicdn.com/kf/H355adba4500642949f3d43d001b83ac3b.jpg'
 tags: hexo
+abbrlink: 4a17b156
 date: 2021-01-01 00:00:00
 updated: 2021-01-01 00:00:00
 ---

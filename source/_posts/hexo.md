@@ -1,9 +1,10 @@
 ---
 title: 从零开始的Hexo博客搭建
+tags: 教程
+cover: 'https://tuchuang-1258604854.cos.ap-chengdu.myqcloud.com/hexo/hexo.png'
+abbrlink: dd6ab4d6
 date: 2021-05-04 07:51:58
 updated: 2021-05-04 07:51:58
-tags: 教程
-cover: https://tuchuang-1258604854.cos.ap-chengdu.myqcloud.com/hexo/hexo.png
 ---
 
 > 前言：哪个男孩不想拥有自己的网站呢？

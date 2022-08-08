@@ -1,5 +1,5 @@
 # robots.txt generated at https://www.sojson.com/robots/
-sitemap:https://tianli-blog.club/sitemap.xml
+sitemap:https://blog.alm5.cn/sitemap.xml
 User-agent: *
 Disallow:/Love/
 Disallow:/Test/

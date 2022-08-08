@@ -1,11 +1,12 @@
 ---
 title: 基于github的图床搭建
+tags:
+  - 教程
+  - 图床
+cover: 'https://img1.tianli0.top/img2_cover.jpeg'
+abbrlink: 5a5ab196
 date: 2021-04-25 08:19:45
 updated: 2021-04-25 08:19:45
-tags: 
- - 教程
- - 图床
-cover: https://img1.tianli0.top/img2_cover.jpeg
 ---
 
 > 基于github和jsdelivr的图床搭建

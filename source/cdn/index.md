@@ -20,7 +20,7 @@ top_img: false
 | img.shields.io     | https://jsd.15xd.cn/badge/                                    | 暂时会502             |
 | more               |                                                                    |                       |
 
-# 使用方法https://tianli-blog.club/2022/01/26/cdn/
+# 使用方法https://blog.alm5.cn/2022/01/26/cdn/
 
 *.tianli0.top 备案号:[蜀ICP备2021004404号](http://beian.miit.gov.cn/)
 *.tianli-blog.club 备案号:[蜀ICP备2021012046号](http://beian.miit.gov.cn/)

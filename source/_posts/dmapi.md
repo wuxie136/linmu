@@ -1,11 +1,13 @@
 ---
 title: 你也可以拥有自己的随机图片api
+tags:
+  - api
+  - 教程
+cover: >-
+  https://tuchuang-1258604854.cos.ap-chengdu.myqcloud.com/web/bwt/1613378482723.png
+abbrlink: 74125c36
 date: 2021-02-16 11:43:20
 updated: 2021-02-16 11:43:20
-tags: 
- - api
- - 教程
-cover: https://tuchuang-1258604854.cos.ap-chengdu.myqcloud.com/web/bwt/1613378482723.png
 ---
 > 如果你经常访问我的主页面你会发现，每次刷新，背景图都不一样。这是因为我使用了随即图片的api，那么网络上那么多随机图片的api，但是觉得质量不够怎么办呢？十几行代码轻松解决问题。
 

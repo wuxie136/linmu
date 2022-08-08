@@ -1,11 +1,12 @@
 ---
 title: 使用go-cqhttp搭建一个属于自己的机器人
-date: 2021-06-08 14:07:05
 tags:
- - 教程
- - bot
+  - 教程
+  - bot
+cover: 'https://img1.tianli0.top/qqbot/cover.webp'
+abbrlink: fe873c64
+date: 2021-06-08 14:07:05
 updated: 2021-06-20 13:08:05
-cover: https://img1.tianli0.top/qqbot/cover.webp
 ---
 
 > 不少朋友肯定都想希望QQ像"蓝色飞机"一样搞一个自己的万能bot，可是在之前腾讯把大把机器人都赶尽杀绝，不过github话说有许多不错的项目。今天的教程就教大家搭建一个自己的bot

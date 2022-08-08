@@ -1,9 +1,10 @@
 ---
 title: 免费jsd镜像使用手册（无需申请）
+tags: jsd
+cover: 'https://img1.tianli0.top/jsd/jsd1.png'
+abbrlink: 603e608f
 date: 2022-01-26 14:36:24
 updated: 2022-02-02 14:55:24
-tags: jsd
-cover: https://img1.tianli0.top/jsd/jsd1.png
 ---
 
 
@@ -14,7 +15,7 @@ cover: https://img1.tianli0.top/jsd/jsd1.png
 
    您在使用前最好填写申请问卷https://wj.qq.com/s2/9657320/0bae 在网站关于页面或者底部添加**JSD加速由Tianli提供**（无需使用超链接）`注意：如果您在我的友链页面，您无需填写问卷，只需留言`
 
-2. 有使用限制吗？有，使用限制请查看[CDN政策| Tianli's blog (tianli-blog.club)](https://tianli-blog.club/2022/01/26/cdn/#CDN政策)和https://tianli-blog.club/privacy
+2. 有使用限制吗？有，使用限制请查看[CDN政策| Tianli's blog (tianli-blog.club)](https://blog.alm5.cn/2022/01/26/cdn/#CDN政策)和https://blog.alm5.cn/privacy
 
 3. 速度快吗？依托腾讯云全国cdn，并通过腾讯云COS转存，保证速度![](https://jsd.15xd.cn/www.jsdelivr.com/35507da1d543c7874252e26e5dd65f505d0f6241/img/network/infographics.png?v=35507da1d543c7874252e26e5dd65f505d0f6241c)类似于jsd的S3转存，只是依托腾讯云为服务
 
@@ -342,5 +343,5 @@ cover: https://img1.tianli0.top/jsd/jsd1.png
 
 # [CDN状态](https://tiani-blog.club/cdn/index.html)
 
-{% btn 'https://tianli-blog.club/cdn/index.html',CDN状态,far fa-hand-point-right,pink larger %}
+{% btn 'https://blog.alm5.cn/cdn/index.html',CDN状态,far fa-hand-point-right,pink larger %}
 

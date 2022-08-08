@@ -13,5 +13,5 @@ console.log(`
   ===================================================================
 `);
 console.log("%c    ","background: url(https://img1.tianli0.top/phlogo.png) no-repeat left center;font-size: 200px;","\n");
-console.log("\n %c 隐私政策 %c https://tianli-blog.club/privacy/ \n","color: #ffffff; background: #00a6ff; padding:5px 0;","background: #fadfa3; padding:5px 0;")
+console.log("\n %c 隐私政策 %c https://blog.alm5.cn/privacy/ \n","color: #ffffff; background: #00a6ff; padding:5px 0;","background: #fadfa3; padding:5px 0;")
 console.log("\n %c JSD静态资源CDN %c https://jsd.15xd.cn/ \n","color: #ffffff; background: #00a6ff; padding:5px 0;","background: #fadfa3; padding:5px 0;")

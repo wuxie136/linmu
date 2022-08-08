@@ -1,11 +1,12 @@
 ---
 title: 作为一个普通的NAS，玩客云怎么样
+tags:
+  - NAS
+  - 体验
+cover: 'https://tuchuang-1258604854.cos.ap-chengdu.myqcloud.com/coolapk/NAS/1.jpg'
+abbrlink: 4d1b8f1
 date: 2020-03-01 16:10:44
 updated: 2020-03-01 16:10:44
-tags: 
- - NAS
- - 体验
-cover: https://tuchuang-1258604854.cos.ap-chengdu.myqcloud.com/coolapk/NAS/1.jpg
 ---
 
 - [ ] 先不聊这个，大家先看官方宣传图<img src="https://tuchuang-1258604854.cos.ap-chengdu.myqcloud.com/coolapk/NAS/coolapk_emotion_64_shounuehuaji.png" alt="受虐滑稽" style="zoom:33%;" />

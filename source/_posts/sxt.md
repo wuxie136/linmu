@@ -1,10 +1,11 @@
 ---
 title: 生学堂查看市排名
+tags:
+  - 教程
+cover: 'https://tuchuang-1258604854.cos.ap-chengdu.myqcloud.com/sxt/1.jpg'
+abbrlink: 73c45f81
 date: 2021-01-28 17:47:39
 updated: 2021-07-13 18:56:39
-tags: 
- - 教程
-cover: https://tuchuang-1258604854.cos.ap-chengdu.myqcloud.com/sxt/1.jpg
 ---
 > 引入：鉴于绵阳市教研所不对成绩排名等信息完全公开，这个时候就需要一定的技术手段来解决。此文章就是对获取这些数据的教程。
 

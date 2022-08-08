@@ -1,8 +1,9 @@
 ---
 title: 无服务器部署php程序，以typecho为例
-date: 2021-08-10 13:13:34
 tags: 教程
-cover: https://img1.tianli0.top/vercel/vercel.png
+cover: 'https://img1.tianli0.top/vercel/vercel.png'
+abbrlink: a5ce85e4
+date: 2021-08-10 13:13:34
 updated: 2021-08-10 13:13:34
 ---
 
@@ -19,7 +20,7 @@ updated: 2021-08-10 13:13:34
 
 # 一.注册[Github](https://github.com/)及[Vercel](https://vercel.com/)账号，配置git环境
 
-## 1.电脑环境配置请参考[Git工具配置](https://tianli-blog.club/2021/05/04/hexo/#1-1-Git工具配置)
+## 1.电脑环境配置请参考[Git工具配置](https://blog.alm5.cn/2021/05/04/hexo/#1-1-Git工具配置)
 
 ## 2.账户配置
 

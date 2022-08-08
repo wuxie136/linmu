@@ -1,10 +1,11 @@
 ---
 title: Hexo插件推荐—博文加密插件
+tags:
+  - 教程
+  - hexo插件
+cover: 'https://img1.tianli0.top/h-e.png'
+abbrlink: 2d2f3fb0
 date: 2021-03-26 23:24:23
-tags: 
- - 教程
- - hexo插件
-cover: https://img1.tianli0.top/h-e.png
 updated: 2021-03-26 23:24:23
 ---
 
@@ -60,7 +61,7 @@ encrypt: # hexo-blog-encrypt
   wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.
 ```
 
-## 3.[Demo](https://tianli-blog.club/Test/)
+## 3.[Demo](https://blog.alm5.cn/Test/)
 
 ## 4.插件[Github](https://github.com/D0n9X1n/hexo-blog-encrypt)
 

@@ -1,10 +1,11 @@
 ---
 title: YesPlayMusic部署教程
+tags:
+  - 教程
+cover: 'https://img1.tianli0.top/music/music.png'
+abbrlink: c932c196
 date: 2021-03-13 19:43:59
 updated: 2021-03-13 19:43:59
-tags:
- - 教程
-cover: https://img1.tianli0.top/music/music.png
 ---
 
 > YesPlayMusic 一款简洁美观的第三方网易云音乐

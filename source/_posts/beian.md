@@ -1,9 +1,10 @@
 ---
 title: 喜大奔普，四川省网站备案，年龄限制终于降低了
+tags: ICP备案
+cover: 'https://tuchuang-1258604854.cos.ap-chengdu.myqcloud.com/beian/beian.png'
+abbrlink: 418e966c
 date: 2021-02-25 20:44:19
 updated: 2021-02-25 20:44:19
-tags: ICP备案
-cover: https://tuchuang-1258604854.cos.ap-chengdu.myqcloud.com/beian/beian.png
 ---
 
 > 在很早之前就想ICP备案了，可惜因为年龄限制，一直没去，不过今年嫖了腾讯云轻量1200的券，买了一台一直到2022-09-30的应用服务器，买的国内，需要备案，但是一看四川省年龄限制 18岁

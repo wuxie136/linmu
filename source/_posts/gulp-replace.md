@@ -1,9 +1,10 @@
 ---
 title: 使用gulp-replace实现全局替换jsd cdn加速链接（包括插件）
+tags: 教程
+cover: 'https://img1.tianli0.top/jsd/jsd2.png'
+abbrlink: 7a71c6eb
 date: 2022-01-26 19:50:08
 updated: 2022-01-26 19:50:08
-tags: 教程
-cover: https://img1.tianli0.top/jsd/jsd2.png
 ---
 > 自从jsd官方的ICP被吊销以后，国内的大部分网站速度越来越慢，本文提供一个简单的可行性办法
 >
